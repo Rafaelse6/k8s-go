@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
         - name: goserver
-          image: rafaelse6/hello-go:latest
+          image: rafaelse6/hello-go:v2
